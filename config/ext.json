@@ -120,6 +120,11 @@
             "gmp"
         ]
     },
+    "grpc": {
+        "type": "external",
+        "source": "ext-grpc",
+        "arg-type": "custom"
+    },
     "iconv": {
         "type": "builtin",
         "arg-type": "with-prefix",
